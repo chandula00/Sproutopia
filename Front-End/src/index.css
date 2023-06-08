@@ -1,17 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 
 html{
-  place-items: center;
+  /* place-items: center;
   align-items: center;
   margin: 0;
-  padding: 0px;
-  background-image: url("./components/babies .png");
-  background-repeat: no-repeat;
-  background-size: cover;
+  padding: 0px; */
+  /* background-image: url("./components/babies .png"); */
+  /* background-repeat: no-repeat;
+  background-size: cover; */
   color: #000;
-  animation: rotate 6s infinite alternate linear;
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif,Euclid Circular A;
+  /* animation: rotate 6s infinite alternate linear; */
+  /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif,Euclid Circular A; */
 }
-
+/* 
 @media (width >= 500px) {
   body {
     padding: 0;
@@ -35,4 +39,4 @@ html,
 
 dev {
   display: inline;
-}
+} */
